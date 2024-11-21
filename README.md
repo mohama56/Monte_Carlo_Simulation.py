@@ -1,4 +1,4 @@
-# TwoPlus_Earbuds.py
+# Monte_Carlo_Simulation.py
 Using Python and the Numpy library to perform Monte Carlo simulations and statistical modeling for demand forecasting, optimizing production management, and profit maximization under normal distribution constraints while incorporating scenario analysis for cost uncertainties.
 
 ## 📋 Overview
@@ -30,7 +30,7 @@ To run the project locally, follow these steps:
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/mohama56/TwoPlus_Earbuds.py.git
+git clone https://github.com/mohama56/Monte_Carlo_Simulation.py.git
 Navigate to the project directory:
 bash
 Copy code
